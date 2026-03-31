@@ -5,17 +5,21 @@
 - 💬 Comunique-se comigo através desse email: arthurayyubrodrigues@gmail.com
 - 😄 pronomes: ele/dele
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 Estatísticas
 
-## 🔥 Streak (sequência de commits)
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThurzinDaMassa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThurzinDaMassa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+## 🔥 Streak
 
-## 🏆 Troféus
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThurzinDaMassa&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🚀 Visitantes
-![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue)
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThurzinDaMassa&theme=tokyonight&no-frame=true" />
+</p>
