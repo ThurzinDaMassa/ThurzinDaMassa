@@ -22,13 +22,16 @@
      Para trocar o GIF do banner, substitua o src= abaixo.
      Sugestão de GIFs gratuitos: https://giphy.com ou https://tenor.com
      ═══════════════════════════════════════════════════════════ -->
-<div align="center">
 
+<div align="center">
+     
 <!-- GIF BANNER → substitua o src abaixo pelo link do seu GIF de cabeçalho -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJwdzJkM3dmMnkwaXFjYzhvamJqb2pzanZ6MWJncTR0djEwZGl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6cSHxAxM6KrA6y9JE/giphy.gif"
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpqcW5pc2U4aHhlemMyanQ3ZXZ0dGsxazdqdXZodm54MDlpeTBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj6kX3c8bRijBrl6yR/giphy.gif"
   alt="banner animado"
   width="30%"
   style="max-height:200px; object-fit:cover;" />
+
+  
 
 <!-- Nome com efeito de digitação -->
 <h1>
@@ -87,7 +90,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRicmRmbjR0bzVraDkzN2oxZ3J4bWdmamx1bzQwOThiZGJka3FudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/siDt3kPh2btNhpWAq1/giphy.gif"
   alt="gif de programação"
   width="340"
   style="border-radius:12px;" />
