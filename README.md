@@ -1,74 +1,100 @@
-## Olá sou o Arthur Ayyub Rodrigues, estudo na Escola Sesi Senai e atualmente cursando o Entra21 - Desenvolvimento de Games👋
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Thurzin%20Da%20Massa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+</div>
 
-<h1 align="center">👨‍💻 Arhtur Ayyub Rodrigues</h1>
+<!-- ═══════════════════════════════════════════════════════════
+     SEÇÃO 10 — ESTATÍSTICAS EXTRAS (NOVA!)
+     ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<p align="center">
-  🚀 Futuro Full Stack Developer <br>
-  💻 Apaixonado por tecnologia <br>
-  📚 Sempre evoluindo
-</p>
+## 💎 Detalhes do Perfil
 
----
+<div align="center">
 
-## 📊 Estatísticas
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThurzinDaMassa&theme=radical" alt="profile details" />
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThurzinDaMassa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThurzinDaMassa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThurzinDaMassa&theme=radical" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThurzinDaMassa&theme=radical" alt="most commit language" />
 
----
+</div>
 
-## 🔥 Sequência de commits
+<!-- ═══════════════════════════════════════════════════════════
+     SEÇÃO 11 — RANDOM DEV QUOTE (NOVA!)
+     ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThurzinDaMassa&theme=tokyonight&hide_border=true"/>
-</p>
+## 💭 Quote do Dia
 
----
+<div align="center">
 
-## 🏆 Conquistas
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThurzinDaMassa&theme=tokyonight&no-frame=true"/>
-</p>
+</div>
 
----
+<!-- ═══════════════════════════════════════════════════════════
+     SEÇÃO 12 — RANDOM DEV MEME (NOVA!)
+     ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-## 🛠️ Tecnologias
+## 😄 Dev Humor
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+<div align="center">
 
----
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
-## 🌐 Contato
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════
+     SEÇÃO 13 — SPOTIFY (NOVA!)
+     ═══════════════════════════════════════════════════════════ -->
+<br/>
 
----
+## 🎵 Ouvindo Agora
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThurzinDaMassa&color=blue&style=for-the-badge"/>
-</p>
+<div align="center">
 
-<!-- RODAPÉ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&redirect=true)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SEÇÃO 14 — RODAPÉ
+     ═══════════════════════════════════════════════════════════ -->
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave" />
+
+<br/><br/>
+
+### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+<em><b>Obrigado pela visita!</b> 🚀 Vamos conectar e criar coisas incríveis juntos!</em>
+
+<br/><br/>
+
+<a href="mailto:thurzin@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://linkedin.com/in/thurzin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://twitter.com/thurzin">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
+<a href="https://instagram.com/thurzin">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+
+<br/><br/>
+
+![](https://hit.yhype.me/github/profile?user_id=ThurzinDaMassa)
+
+<br/>
+
+<sub>⭐ Feito com ❤️ e muito ☕ | Atualizado automaticamente</sub>
+
+</div>
