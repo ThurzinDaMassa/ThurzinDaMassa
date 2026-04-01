@@ -90,7 +90,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRicmRmbjR0bzVraDkzN2oxZ3J4bWdmamx1bzQwOThiZGJka3FudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/siDt3kPh2btNhpWAq1/giphy.gif"
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNpZTI3eDFhejBrZ3U5cmt0eG55NWtjYmhhcnE1bzRyMjdmZ29uZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xtwyefP9CfKL9urbEV/giphy.gif"
   alt="gif de programação"
   width="340"
   style="border-radius:12px;" />
