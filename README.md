@@ -27,7 +27,7 @@
 <!-- GIF BANNER → substitua o src abaixo pelo link do seu GIF de cabeçalho -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJwdzJkM3dmMnkwaXFjYzhvamJqb2pzanZ6MWJncTR0djEwZGl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6cSHxAxM6KrA6y9JE/giphy.gif"
   alt="banner animado"
-  width="50%"
+  width="30%"
   style="max-height:200px; object-fit:cover;" />
 
 <!-- Nome com efeito de digitação -->
